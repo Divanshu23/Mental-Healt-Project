@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<title>About</title>
+<head>
+<style>
+body {
+  background-color: lightblue;
+background-image:url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBwgTFhUWGB0XGRgWGSAfGBobHh4dFhsgGxgdICggJBslGxgYITEmJSkrLy4uFx86ODMtNygtLisBCgoKBQoNDg8FGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALUBFgMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAgMEBQEH/8QALhABAAICAQIEBAQHAAAAAAAAAAECAxEEEiETMUGRBTJRYTNxgaEUIkKx0eHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APrkcS+Ofw+0eevVom+Pj4urj6mZ+rTly1pGtxv6bYsmHJavREb6d+094Buw5Iy4+qJ/NTy5vS0ZKT9k+JTowRGteq4GTh5rWnov7tajLjv2jDWI9d/R7gx2xzPVbYLgAAAAAAAAAAAAAAAAAAAAAAAEb0reNXrtIBlnhY533n/BetomKYv6O/8Ao5HIyYsmorGlXDyz4mp33BfxJz2pvkf2GgBh5mC0TOWJ2nw5mIiZ9YmPae37TPs02vWs6taO6vlTNMXXWPKYkFwxxzom0R0NgAAAAAAAAAAAAAAAAAAAAAAAAAAAK75sdPmvAI58EZZiZs9w4K4rbrMrYncbgAABy+Tl8a/VWNNGPlePfwr4+09mfPhyY92tEa20cCmOaeJrv5AnTiY6330/eGkAVRnpOXw/Vaj4dfE69d0gAAAAAAAAAAAAAAAAAAAAAAAAGHm44pfriPPzbkbVreNWrsGPg5pnVLT212bkIxY4t1RSEwAAeWrFo1aNvKUrSNUrpCL5Y+bH7Sz5+RNcu8eT9AbRm43I6/5L+bSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApvxsd79cx3XIeJTr6OruDP8Aw9sWPqx97LpyzSu8tPbyWoZsfi4+jYGK9r13amk0cdIx06YSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVRgrGfxY/6VoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3P/A+bXf3Y8We9LxM2nUen2B1RXhy0zV3SVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK8+Gmaursl+DMWjont6t4CrDgphjVN/qtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAc74bzMvJy3jJrte1e321+7ogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4vwPJjyZ8nhTHbLeJ1O+8a+sz7eztOR8Hw2w5rxbr75L2jqj0nXl3ntvevL8nXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB5FYjyh6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=");
+}
+
+h1
+{
+
+
+  color: black;
+  text-align: center;
+}
+</style>
+
+</head>
+<body>
+
+<body>
+
+<h1>A glimpse of our family<h1>
+<script>
+
+document.write("So we are new to the market and this is not a business or marketing website.");
+document.write("<br></br>");
+document.write("This is an initiative to come together as a community");
+document.write("<br></br>");
+document.write("We hope you have a good time here");
+document.write("<br></br>");
+
+document.write("Thank you for your visit");
+document.write("<br></br>");
+
+</script>
+</body>
+</html>
