@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<title>Welcome to the home page</title>
+<head>
+
+<style>
+body {
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBwgTFhUWGB0XGRgWGSAfGBobHh4dFhsgGxgdICggJBslGxgYITEmJSkrLy4uFx86ODMtNygtLisBCgoKBQoNDg8FGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALUBFgMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAgMEBQEH/8QALhABAAICAQIEBAQHAAAAAAAAAAECAxEEEiETMUGRBTJRYTNxgaEUIkKx0eHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APrkcS+Ofw+0eevVom+Pj4urj6mZ+rTly1pGtxv6bYsmHJavREb6d+094Buw5Iy4+qJ/NTy5vS0ZKT9k+JTowRGteq4GTh5rWnov7tajLjv2jDWI9d/R7gx2xzPVbYLgAAAAAAAAAAAAAAAAAAAAAAAEb0reNXrtIBlnhY533n/BetomKYv6O/8Ao5HIyYsmorGlXDyz4mp33BfxJz2pvkf2GgBh5mC0TOWJ2nw5mIiZ9YmPae37TPs02vWs6taO6vlTNMXXWPKYkFwxxzom0R0NgAAAAAAAAAAAAAAAAAAAAAAAAAAAK75sdPmvAI58EZZiZs9w4K4rbrMrYncbgAABy+Tl8a/VWNNGPlePfwr4+09mfPhyY92tEa20cCmOaeJrv5AnTiY6330/eGkAVRnpOXw/Vaj4dfE69d0gAAAAAAAAAAAAAAAAAAAAAAAAGHm44pfriPPzbkbVreNWrsGPg5pnVLT212bkIxY4t1RSEwAAeWrFo1aNvKUrSNUrpCL5Y+bH7Sz5+RNcu8eT9AbRm43I6/5L+bSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApvxsd79cx3XIeJTr6OruDP8Aw9sWPqx97LpyzSu8tPbyWoZsfi4+jYGK9r13amk0cdIx06YSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVRgrGfxY/6VoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3P/A+bXf3Y8We9LxM2nUen2B1RXhy0zV3SVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK8+Gmaursl+DMWjont6t4CrDgphjVN/qtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAc74bzMvJy3jJrte1e321+7ogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4vwPJjyZ8nhTHbLeJ1O+8a+sz7eztOR8Hw2w5rxbr75L2jqj0nXl3ntvevL8nXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB5FYjyh6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=");
+}
+h1
+{
+background-color:aqua;
+}
+
+</style>
+</head>
+<body>
+<h1>Welcome to the home page</h1>
+<script>
+document.write("Dear ma'am/Sir we are pleased to see you here with us \n.");
+document.write("<br></br>");
+
+document.write("We hope you had a good day and if not we are always there to help you ");
+document.write("<br></br>");
+
+document.write("So this basically is kind of platform where you can share with us any kind of mental breakdown or anxiety whatever it is that you are going through");
+document.write("<br></br>");
+
+document.write("Do remember we are not here to judge you");
+document.write("<br></br>");
+document.write("We also have some specialized consultants that are just a ping away from you so this will help you further");
+
+document.write("All you have to do is fill in the description box ang give us detail or even a glimpse so we can extend our hands to help baasically comfort");
+document.write("<br></br>");
+
+document.write("ThankYou for your valuable time");
+</script>
+
+</body>
+</html>
