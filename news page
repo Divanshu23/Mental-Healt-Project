@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<title>NEWS</title>
+<head>
+<style>
+body
+{
+background-color:aqua;
+background-image:url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhUIBwgTFhUWGB0XGRgWGSAfGBobHh4dFhsgGxgdICggJBslGxgYITEmJSkrLy4uFx86ODMtNygtLisBCgoKBQoNDg8FGisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALUBFgMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAgMEBQEH/8QALhABAAICAQIEBAQHAAAAAAAAAAECAxEEEiETMUGRBTJRYTNxgaEUIkKx0eHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APrkcS+Ofw+0eevVom+Pj4urj6mZ+rTly1pGtxv6bYsmHJavREb6d+094Buw5Iy4+qJ/NTy5vS0ZKT9k+JTowRGteq4GTh5rWnov7tajLjv2jDWI9d/R7gx2xzPVbYLgAAAAAAAAAAAAAAAAAAAAAAAEb0reNXrtIBlnhY533n/BetomKYv6O/8Ao5HIyYsmorGlXDyz4mp33BfxJz2pvkf2GgBh5mC0TOWJ2nw5mIiZ9YmPae37TPs02vWs6taO6vlTNMXXWPKYkFwxxzom0R0NgAAAAAAAAAAAAAAAAAAAAAAAAAAAK75sdPmvAI58EZZiZs9w4K4rbrMrYncbgAABy+Tl8a/VWNNGPlePfwr4+09mfPhyY92tEa20cCmOaeJrv5AnTiY6330/eGkAVRnpOXw/Vaj4dfE69d0gAAAAAAAAAAAAAAAAAAAAAAAAGHm44pfriPPzbkbVreNWrsGPg5pnVLT212bkIxY4t1RSEwAAeWrFo1aNvKUrSNUrpCL5Y+bH7Sz5+RNcu8eT9AbRm43I6/5L+bSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApvxsd79cx3XIeJTr6OruDP8Aw9sWPqx97LpyzSu8tPbyWoZsfi4+jYGK9r13amk0cdIx06YSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVRgrGfxY/6VoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM3P/A+bXf3Y8We9LxM2nUen2B1RXhy0zV3SVgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK8+Gmaursl+DMWjont6t4CrDgphjVN/qtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAc74bzMvJy3jJrte1e321+7ogAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4vwPJjyZ8nhTHbLeJ1O+8a+sz7eztOR8Hw2w5rxbr75L2jqj0nXl3ntvevL8nXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB5FYjyh6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=");
+}
+h1
+{
+background-color:yellow;
+
+}
+
+
+</style>
+
+
+
+</head>
+<body>
+
+<h1>MENTAL HEALTH SHOULD BE CONSIDERED EQUALLY IMPORTANT</h1>
+<script>
+
+document.write("A rapid review into the mental health impacts of loneliness on children and young people concludes that there could be a spike in demand for mental health");
+document.write("<br></br>");
+
+document.write(" Teenagers who experience very poor sleep may be more likely to experience poor mental health in later life, as depressed teens in study slept 30 minutes less per night than other");
+document.write("<br></br>");
+
+
+document.write("Also considering the case of actor Sushant Singh Rajput , No one knew what kind of mental trauma he was going through and what if he shared it with someone he would have been netween us with something new coming up ");
+document.write("<br></br>");
+
+document.write("In their 2018 report, the WHO emphasize that cultural stigma surrounding mental health is one of the chief obstacles to people admitting that they are struggling and seeking help.");
+document.write("<br></br>");
+
+document.write("“Described in various media as a ‘silent epidemic’ and a ‘sleeper issue that has crept into the minds of millions,’ with ‘chilling statistics,’ mental illness among men is a public health concern");
+document.write("<br></br>");
+
+document.write("“Add the stigmatization of help-seeking behavior by men of all races to the unique stressors faced by men and boys of color, and it’s no wonder men and boys of color are at higher risk for isolation and mental health problems. These challenges can manifest as substance use or acting out through violence and aggression — which can lead to more stigma and a continuation of the cycle.”");
+document.write("<br></br>");
+
+
+</script>
+</body>
+</html>
